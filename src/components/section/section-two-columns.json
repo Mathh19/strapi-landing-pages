@@ -6,7 +6,7 @@
   },
   "options": {},
   "attributes": {
-    "tittle": {
+    "title": {
       "type": "string",
       "required": true,
       "maxLength": 255,
